@@ -13,3 +13,13 @@
 5
 	git log
 	gives metadata about all sorts of operations mae on repo, like commiting, rollback, etc.
+6
+	git remote add origin < url of remote repo >
+	when u have not cloned any repo from url, then u need 2 tell git to which git remote repo u want 2 commit thses changes.
+	in case u have cloned repo from url u need not to this step, skip to next step
+7
+	git push -u origin master
+	it tells git that now we are ready to push changed made in local repo to the origin remote repo
+	name of remote is orgin, and deault branch is master.
+	-u tells git to remember parameter so that next time only 
+	>>git push will directly update the repo
