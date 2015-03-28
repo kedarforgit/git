@@ -1,0 +1,11 @@
+1
+	git init
+	to initalise git repostory if newly created
+2
+	git status
+	to check current updates in repo
+3
+	git add
+	to place the changes made in a repo to a state where those changed can be comitted
+4
+	
