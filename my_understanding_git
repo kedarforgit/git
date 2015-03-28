@@ -23,3 +23,8 @@
 	name of remote is orgin, and deault branch is master.
 	-u tells git to remember parameter so that next time only 
 	>>git push will directly update the repo
+8 
+	git pull
+	in case if many contributors are contributing to  ur repo then when u want to work on repo after long time, better to pull the changed made by other contributors in ur local repo.
+9
+	
