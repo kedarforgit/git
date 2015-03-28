@@ -6,6 +6,10 @@
 	to check current updates in repo
 3
 	git add
-	to place the changes made in a repo to a state where those changed can be comitted
+	to place the changes made in a repo to a staging area where those changed can be comitted
 4
-	
+	git commit -m '<what is incremented>'
+	to successfully save the changes made in repo by the name given to it
+5
+	git log
+	gives metadata about all sorts of operations mae on repo, like commiting, rollback, etc.
